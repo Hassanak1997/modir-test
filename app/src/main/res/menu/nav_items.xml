@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/requests_id"
+        android:icon="@drawable/request"
+        android:title="درخواست ها" />
+
+    <item
+        android:id="@+id/users_id"
+        android:icon="@drawable/group"
+        android:title="کاربران" />
+</menu>
